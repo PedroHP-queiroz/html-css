@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightgoldenrodyellow;
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 { 
+    color: blue;
+    background-color: darkgoldenrod;
+}
+
+a {
+    color: brown;
+    text-decoration: underline;
+}
+
+p { 
+    text-align: justify;
+}

@@ -1,0 +1,48 @@
+body{ 
+    font-family: 'Work Sans', sans-serif; 
+    font-size: 2em;
+    color: black;
+}
+h1{ 
+    font-family: 'Square Peg';
+    font-size: 3em;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: #163740;
+}
+p#p2 {
+    text-align: center;
+}
+div#post {
+    background-color: #2B6F80;
+    display: block;
+    width: auto;
+    height: auto;
+    box-shadow: 10px 10px 10px;
+    color: black;
+}
+div#post2 {
+    background-color: #41A6BF;
+    display: block;
+    width: auto;
+    height: auto;
+    box-shadow: 10px 10px 10px;
+    color: #163740;
+}
+footer p {
+    text-align: center;
+}
+div#post3 {
+    border-radius: 5px;
+    background-color: #41A6BF;
+    display: block;
+    width: auto;
+    height: auto;
+    box-shadow: 10px 10px 10px;
+    color: black;
+}
+div#post:hover { 
+    background-color: rgba(0, 0, 0, .5);
+}
